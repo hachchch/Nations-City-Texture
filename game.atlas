@@ -13,7 +13,7 @@ TileSets/FantasyHex/Tiles/City center-Japanese-Medieval era
   index: -1
 TileSets/FantasyHex/Tiles/City center-Japanese-Classical era
   rotate: false
-  xy: 388, 3
+  xy: 458, 3
   size: 32, 33
   orig: 32, 33
   offset: 0, 0
