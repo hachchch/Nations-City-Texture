@@ -1,5 +1,5 @@
 
-game7.png
+game5.png
 size: 2048, 2048
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
@@ -16,5 +16,61 @@ TileSets/FantasyHex/Tiles/City center-Japanese-Classical era
   xy: 458, 3
   size: 32, 33
   orig: 32, 33
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Grassland-Future era
+  rotate: false
+  xy: 1308, 187
+  size: 32, 29
+  orig: 32, 29
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Plains-Future era
+  rotate: false
+  xy: 1308, 187
+  size: 32, 29
+  orig: 32, 29
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Desert-Future era
+  rotate: false
+  xy: 1308, 187
+  size: 32, 29
+  orig: 32, 29
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Tundra-Future era
+  rotate: false
+  xy: 1308, 187
+  size: 32, 29
+  orig: 32, 29
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Snow-Future era
+  rotate: false
+  xy: 1308, 187
+  size: 32, 29
+  orig: 32, 29
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Forest-Future era
+  rotate: false
+  xy: 1096, 324
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Jungle-Future era
+  rotate: false
+  xy: 1096, 324
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Farm-Future era
+  rotate: false
+  xy: 462, 40
+  size: 32, 36
+  orig: 32, 36
   offset: 0, 0
   index: -1
