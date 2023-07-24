@@ -7,7 +7,7 @@ repeat: none
 TileSets/FantasyHex/Tiles/City center-Medieval era
   rotate: false
   xy: 422, 4
-  size: 32, 36
-  orig: 32, 36
+  size: 32, 32
+  orig: 32, 32
   offset: 0, 0
   index: -1
