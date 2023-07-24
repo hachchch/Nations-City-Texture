@@ -6,8 +6,8 @@ filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
 TileSets/FantasyHex/Tiles/City center-Medieval era
   rotate: false
-  xy: 421, 4
-  size: 32, 32
-  orig: 32, 32
+  xy: 423, 5
+  size: 32, 33
+  orig: 32, 33
   offset: 0, 0
   index: -1
