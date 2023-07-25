@@ -1,2 +1,2 @@
 # Samurai-Expension
-This mod adds Medival Japan without Europian Arm and Citie Textures.
+This mod changes Medival Japan without Europian Arm and Citie Textures.
