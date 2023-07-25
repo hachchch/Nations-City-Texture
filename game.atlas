@@ -74,3 +74,59 @@ TileSets/FantasyHex/Tiles/Farm-Future era
   orig: 32, 36
   offset: 0, 0
   index: -1
+TileSets/FantasyHex/Units/Crossbowman-Japanese
+  rotate: false
+  xy: 404, 956
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Knight-Japanese
+  rotate: false
+  xy: 604, 708
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Musketman-Japanese
+  rotate: false
+  xy: 1525, 887
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/City center-Industrial era-Japanese
+  rotate: false
+  xy: 1485, 912
+  size: 32, 33
+  orig: 32, 33
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/City center-Modern era-Japanese
+  rotate: false
+  xy: 444, 1327
+  size: 32, 34
+  orig: 32, 34
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/City center-Atomic era-Japanese
+  rotate: false
+  xy: 145, 4
+  size: 32, 34
+  orig: 32, 34
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/City center-Information era-Japanese
+  rotate: false
+  xy: 404, 1325
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/City center-Future era-Japanese
+  rotate: false
+  xy: 225, 18
+  size: 32, 34
+  orig: 32, 34
+  offset: 0, 0
+  index: -1
