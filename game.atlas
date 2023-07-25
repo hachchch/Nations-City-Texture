@@ -101,35 +101,35 @@ TileSets/FantasyHex/Units/Musketman-Japanese
   orig: 32, 28
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Tiles/City center-Industrial era-Japanese
+TileSets/FantasyHex/Tiles/City center-Japanese-Industrial era
   rotate: false
   xy: 1485, 912
   size: 32, 33
   orig: 32, 33
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Tiles/City center-Modern era-Japanese
+TileSets/FantasyHex/Tiles/City center-Japanese-Modern era
   rotate: false
   xy: 444, 1327
   size: 32, 34
   orig: 32, 34
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Tiles/City center-Atomic era-Japanese
+TileSets/FantasyHex/Tiles/City center-Japanese-Atomic era
   rotate: false
   xy: 145, 4
   size: 32, 34
   orig: 32, 34
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Tiles/City center-Information era-Japanese
+TileSets/FantasyHex/Tiles/City center-Japanese-Information era
   rotate: false
   xy: 404, 1325
   size: 32, 36
   orig: 32, 36
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Tiles/City center-Future era-Japanese
+TileSets/FantasyHex/Tiles/City center-Japanese-Future era
   rotate: false
   xy: 225, 18
   size: 32, 34
