@@ -67,13 +67,19 @@ TileSets/FantasyHex/Tiles/Jungle-Future era
   orig: 32, 32
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Tiles/Farm-Future era
+TileSets/FantasyHex/Tiles/Mine-Future era
   rotate: false
   xy: 462, 40
   size: 32, 36
   orig: 32, 36
   offset: 0, 0
   index: -1
+
+game10.png
+size: 2048, 2048
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
 TileSets/FantasyHex/Units/Crossbowman-Japanese
   rotate: false
   xy: 404, 956
